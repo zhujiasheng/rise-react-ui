@@ -1,12 +1,12 @@
 {
   "name": "rise-react-ui",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "基于 React 的业务组件库",
   "private": false,
   "license": "ISC",
   "main": "./lib/index.js",
   "module": "./lib/index.js",
-  "homepage": "https://zhujiasheng.github.io/rise-ui/",
+  "homepage": "https://zhujiasheng.github.io/rise-react-ui/",
   "publishConfig": {
     "registry": "https://www.npmjs.cn/"
   },
