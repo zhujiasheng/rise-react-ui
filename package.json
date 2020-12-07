@@ -1,5 +1,5 @@
 {
-  "name": "rise-ui",
+  "name": "rise-react-ui",
   "version": "1.0.0",
   "description": "基于 React 的业务组件库",
   "private": false,
